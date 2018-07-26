@@ -1,0 +1,52 @@
+body {
+	background-color: darkgray;
+}
+
+div#test {
+	height: 330px;
+	width: 535px;
+	margin-left: 267px;
+	margin-top: 68px;
+	padding-bottom: -10px;
+	padding-top: 20px;
+	font-size: 22px;
+	background-color: darkgray;
+	color: #f6f6f6;
+	padding-left: 81px;
+}
+
+h2 {
+	padding-top: 32px;
+	text-align: center;
+	font-size: 38px;
+	text-transform: uppercase;
+	color: #f6f6f6;
+	margin-left: -370px;
+	margin-top: 11px;
+	margin-bottom: -36px;
+}
+
+button#g {
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 7px;
+}
+
+button#hy {
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 7px;
+	margin-left: 10px;
+}
